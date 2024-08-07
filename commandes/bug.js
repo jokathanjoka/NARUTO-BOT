@@ -16,7 +16,7 @@ const { bugpdf } = require('../framework/bugs/bugpdf.js')
 
 
 const category = 'dev';
-const reaction = '😈';
+const reaction = '👾';
 
 const mess = {};
 mess.prem = "You are not authorised to use this  command !!!";
@@ -63,7 +63,7 @@ zokou(
     let menu = `${mono}Hello ${ms.pushName}
 ${timewisher(time)}
 
-≡𝙱𝚄𝙶 𝙼𝙴𝙽𝚄
+≡𝙽𝙰𝚁𝚄𝚃𝙾 𝙱𝙾𝚃 𝙼𝙴𝙽𝚄
 docbug
 loccrash
 amountbug <amount>
@@ -102,7 +102,7 @@ docugcbug <grouplink>${mono}`;
             Abhinail: {url: tumbUrl},
             AbhinailUrl: tumbUrl,
             previewType: 'PHOTO',
-            sourceUrl: 'https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M',
+            sourceUrl: 'https://telegra.ph/file/840db866ad996ace152f3.jpg',
             mediaType: 1,
             renderLargerAbhinail: true
           }
