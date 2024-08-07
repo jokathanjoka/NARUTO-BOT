@@ -914,7 +914,7 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔───⬡
-┃ ┃⬡joel bot⬡┃
+┃ ┃⬡naruto bot⬡┃
 ┃    Prefix : [ ${prefixe} ]
 ┃    Mode :${md}
 ┃    Total Commandes : ${evt.cm.length}︎
@@ -928,7 +928,7 @@ ${metadata.desc}`;
  this project
  property of joel tech 
  property of joel_it
- ©  255714595078
+ © 255714595078
  © 255767570963
 ╚─────────────────···▸▸`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
