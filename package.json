@@ -1,5 +1,5 @@
 {
-  "name": "TKM bot",
+  "name": "naruto bot",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "TKM-BOT",
+    "NARUTO-BOT",
     "whatsapp",
     "whatsapp-bot",
-    "Cod3Uchiha",
-    "Manjiro-Sano-md",
-    "Tkm bot",
-    "CodeUchiha"
+    "naruto owner",
+    "joel_tech",
+    "naruto bot",
+    "joel_it"
   ],
-  "author": "Cod3Uchiha",
+  "author": "joel_tech",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
