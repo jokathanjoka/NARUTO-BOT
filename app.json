@@ -45,27 +45,7 @@
       "description":"put your session ID, the code you received after pairing code",   
       "value":"",
       "required":true
-      
-    },
-    "OWNER_NAME":
-    {
-    
-    "desc": "Your Name",
-    "required": false,
-    "value": "joel_it"
-  },
-    "NUMERO_OWNER":
-  {
-    
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
-    "value": "255714595078"
-  },
-    "WARN_COUNT":
-  {
-    "desc": "this is the limit of warn for warning commandes",
-    "required": false,
-    "value": "3"
+
 
   },
   "PRESENCE":{
