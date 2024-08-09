@@ -3,7 +3,7 @@
    
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'M+NARUTO+MD+CREATED+BY+M_.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/179fe48ce0290c09d75a6.jpg">
+ <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/02834071d9bdc0564e6d2.jpg">
   
 </h1> 
 <p align="center">𝐢𝐧𝐭𝐨𝐝𝐮𝐜𝐢𝐧𝐠 <b>naruto md</b>, 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐬𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐛𝐨𝐭 </p>
