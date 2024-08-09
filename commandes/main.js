@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜ ᴊᴏᴇʟ ᴍᴅ ⌟ ❐
+┏❏ ⌜ NARUTO MD BOT
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User : ${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣joel cmds
+┣naruto cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md 2025
-┣❏happy new year 
+️┣❏naruto md bot
+┣❏by naruto_tech
 ┗┳━━━━━━━━━━━━┳┛
 ┏┻━━━━━━━━━━━━┻┓
-┃powered by joel tech
+┃keep using naruto md
 ┗━━━━━━━━━━━━━━┛\n
 
 
