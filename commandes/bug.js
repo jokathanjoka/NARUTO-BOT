@@ -47,7 +47,7 @@ const timewisher = (time) => {
 // bug menu
 zokou(
   {
-    nomCom: 'bugmenu',
+    nomCom: 'menu',
     categorie: category,
     reaction: reaction
   },
@@ -98,11 +98,11 @@ docugcbug <grouplink>${mono}`;
           {
             showAdAttribution: true,
             title: `${conf.BOT}`,
-            body: `Bot Created By joel_tech`,
+            body: `Bot Created By naruto_tech`,
             Abhinail: {url: tumbUrl},
             AbhinailUrl: tumbUrl,
             previewType: 'PHOTO',
-            sourceUrl: 'https://telegra.ph/file/840db866ad996ace152f3.jpg',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M',
             mediaType: 1,
             renderLargerAbhinail: true
           }
