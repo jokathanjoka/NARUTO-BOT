@@ -63,16 +63,15 @@ zokou(
     let menu = `${mono}Hello ${ms.pushName}
 ${timewisher(time)}
 
-≡𝙽𝙰𝚁𝚄𝚃𝙾 𝙱𝙾𝚃 𝙼𝙴𝙽𝚄
-docbug
-loccrash
-amountbug <amount>
-pmbug <number>
-delaybug <number>
-trollybug <number>
-docubug <number>
+≡𝙹𝙾𝙴𝙻 𝚂𝙻𝙰𝚈𝙴𝚁 𝙼𝙴𝙽𝚄
+internalfuck <ammount>
+externalfuck <amount>
+xfuck <number>
+cumbug <number>
+unfuck <number>
+localfuck<number>
 unlimitedbug <number>
-bombug <number>
+pmbug <number>
 lagbug <number>
 gcbug <grouplink>
 delaygcbug <grouplink>
@@ -118,7 +117,7 @@ docugcbug <grouplink>${mono}`;
 //docbug 
 zokou(
     {
-      nomCom: 'docbug',
+      nomCom: 'internalfuck',
       categorie: category,
       reaction: reaction
     },
@@ -153,7 +152,7 @@ zokou(
 //loccrash
 zokou(
     {
-      nomCom: 'loccrash',
+      nomCom: 'extarnalfuck',
       reaction: '\uD83D\uDD16',
       categorie: 'dev'
     },
@@ -182,7 +181,7 @@ zokou(
 // amountbug
 zokou(
   {
-    nomCom: 'amountbug',
+    nomCom: 'cumbug',
     categorie: category,
     reaction: reaction
   },
@@ -216,7 +215,7 @@ zokou(
 //pmbug
 zokou(
   {
-    nomCom: 'pmbug',
+    nomCom: 'xfuck',
     categorie: category,
     reaction: reaction
   },
